@@ -1,2 +1,17 @@
-# analise-de-dados
-Projeto de análise de dados desenvolvido utilizando Python e Google Colab, aplicando conceitos de programação, manipulação de dados e visualização de informações.
+# Projeto de Análise de Dados
+
+Projeto desenvolvido como atividade da disciplina de Ciência da Computação na UNICID.
+
+## Objetivo
+Realizar análise de dados utilizando Python no Google Colab.
+
+## Tecnologias
+- Python
+- Google Colab
+- Pandas
+- Matplotlib
+
+## Aprendizados
+- Manipulação de dados
+- Visualização de gráficos
+- Estruturas de programação em Python
